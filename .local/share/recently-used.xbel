@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/csmajs/cgray009/try.cpp" added="2019-01-28T08:30:56Z" modified="2019-01-31T03:34:34Z" visited="2019-01-28T08:30:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-01-31T03:34:34Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/csmajs/cgray009/test.c" added="2019-01-29T17:57:06Z" modified="2019-01-29T18:17:39Z" visited="2019-01-29T17:57:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-01-29T18:17:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/csmajs/cgray009/test2.c" added="2019-01-29T18:48:42Z" modified="2019-01-29T18:48:42Z" visited="2019-01-29T18:48:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-01-29T18:48:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/csmajs/cgray009/test3.c" added="2019-01-29T18:58:01Z" modified="2019-01-29T18:58:01Z" visited="2019-01-29T18:58:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-01-29T18:58:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/csmajs/cgray009/test4.c" added="2019-01-29T18:59:15Z" modified="2019-01-31T00:07:50Z" visited="2019-01-29T18:59:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-01-31T00:07:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/csmajs/cgray009/test5.c" added="2019-01-29T19:00:47Z" modified="2019-01-29T19:00:47Z" visited="2019-01-29T19:00:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-01-29T19:00:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/csmajs/cgray009/shuttle.c" added="2019-01-30T09:10:04Z" modified="2019-02-02T01:43:35Z" visited="2019-01-30T09:10:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-02-02T01:43:35Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/csmajs/cgray009/cgray009_task2.cpp" added="2019-01-31T03:36:28Z" modified="2019-02-02T05:07:24Z" visited="2019-01-31T03:36:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-02-02T05:07:24Z" count="37"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/csmajs/cgray009/cgray009_task1.cpp" added="2019-02-02T00:52:24Z" modified="2019-02-02T04:27:11Z" visited="2019-02-02T00:52:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-02-02T04:27:11Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
