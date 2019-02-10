@@ -5,12 +5,6 @@ geany shuttle2.c
 ./mkcsim shuttle2.c
 ./csim.x
 geany shuttle2.c
-./mkcsim shuttle2.c
-./csim.x
-geany shuttle2.c
-./mkcsim shuttle2.c
-./csim.x
-geany shuttle2.c
 ls
 ./mkcsim shuttle2.c
 ./csim.x
@@ -98,3 +92,9 @@ geany cgray009_lab4.cpp
 geany cgray009_lab4.cpp
 ls
 geany cgray009_lab4.cpp 
+ls
+git in
+git add .
+git commit -m "lab4"
+status
+git status
