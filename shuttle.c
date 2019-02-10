@@ -42,7 +42,7 @@ extern "C" void sim()      // main process
   shuttle();                // create a single shuttle
   hold (1440);              // wait for a whole day (in minutes) to pass
   report();
-  status_facilities();
+  //status_facilities();
 }
 
 // Model segment 1: generate groups of new passengers at specified location
